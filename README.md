@@ -1,5 +1,5 @@
 # Terraform-iaac
-# Creates vpc with 3 public subnets
+# Creates VPC with 3 public subnets
 
 ```
 
