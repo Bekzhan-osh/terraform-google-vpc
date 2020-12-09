@@ -1,4 +1,6 @@
-# terraform-iaac
+# Terraform-iaac
+# Creates vpc with 3 public subnets
+
 ```
 
 module "vpc" {
