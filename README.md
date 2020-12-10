@@ -18,7 +18,7 @@ module "vpc" {
 ```
 ```
 
-provider “google” {
+provider "google" {
     version = “2.20"
     credentials = “${file(“~/.path /to/your/credentials”)}”
     project = “gcp-project-id”
